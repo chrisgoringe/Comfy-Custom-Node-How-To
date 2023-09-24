@@ -19,6 +19,8 @@ An unofficial, practical, collaborative Q&A to getting started developing custom
 
 **Check things** I'm not a ComfyUI expert, and I'm not likely to check everything anyone writes. So feel free to look for errors and PR them.
 
+**Make this look better** I don't really know markdown very well. If you do, show us how to make this look better and easier to read.
+
 **Organise stuff** If this works, it might get messy. If you're the type who likes to organise, feel free to sort things into themes and stuff.
 
 **Help us make this happen** Want to set up a discord server or something where we can chat about this stuff?
