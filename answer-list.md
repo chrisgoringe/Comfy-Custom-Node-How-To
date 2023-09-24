@@ -32,6 +32,10 @@ Here's how you [deploy a node](./answers/deploying%20a%20custom%20node.md)
 
 `nodes.py` in the top level of the ComfyUI directory has the definitions of lots of the built in nodes. Look at the code for a node that does something a bit like you want.
 
+**What are hidden inputs?**
+
+[Hidden inputs](./answers/hidden_inputs.md)
+
 ## More referency stuff
 
 **What are the different input and output types, as python objects?**
