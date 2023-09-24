@@ -36,4 +36,4 @@ Here's how you [deploy a node](./answers/deploying%20a%20custom%20node.md)
 
 **What are the different input and output types, as python objects?**
 
-Stick a breakpoint in your debugger and take a look at them! But here are some details
+Stick a breakpoint in your debugger and take a look at them! But [here](./answers/data_types.md) are some details
