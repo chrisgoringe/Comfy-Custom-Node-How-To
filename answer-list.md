@@ -5,7 +5,7 @@ If you've got a question not answered here, post it as an [issue](https://github
 ## Starting Points
 
 - ComfyUI uses nodes to do all the work of stable diffusion. It comes with lots of them out of the box, but if you want to do something that can't be done with one that already exists, you can create new nodes.
-- [ComfyUI-Manager][https://github.com/ltdrdata/ComfyUI-Manager] is your go-to for finding and installing custom nodes.
+- [ComfyUI-Manager](https://github.com/ltdrdata/ComfyUI-Manager) is your go-to for finding and installing custom nodes.
 
 ## Writing a simple custom node
 
