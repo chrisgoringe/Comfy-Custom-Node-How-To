@@ -40,6 +40,10 @@ Here's how you [deploy a node](./answers/deploying%20a%20custom%20node.md)
 
 [Communicating with the javascript](./answers/front_end.md)
 
+**Can I subclass an existing custom node?**
+
+[Subclassing custom nodes](./answers/subclassing.md)
+
 ## More referency stuff
 
 **What are the different input and output types, as python objects?**
