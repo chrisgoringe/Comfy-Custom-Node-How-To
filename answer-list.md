@@ -1,4 +1,4 @@
-# The A of Q&A
+# Unofficial practical collaborative Q&A on developing custom nodes
 
 If you've got a question not answered here, post it as an [issue](https://github.com/chrisgoringe/Comfy-Custom-Node-How-To/issues).
 
@@ -23,3 +23,9 @@ Here are some guides on how to do things that have been contributed:
 - [Communicating with the javascript](./answers/front_end.md)
 - [Subclassing custom nodes](./answers/subclassing.md)
 - [What python objects represent the input and output types?](./answers/data_types.md)
+
+## Credits
+
+Answers contributed by:
+- [chrisgoringe](https://github.com/chrisgoringe)
+- [Lerc](https://github.com/Lerc)
