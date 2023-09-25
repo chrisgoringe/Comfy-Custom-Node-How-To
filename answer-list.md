@@ -36,6 +36,10 @@ Here's how you [deploy a node](./answers/deploying%20a%20custom%20node.md)
 
 [Hidden inputs](./answers/hidden_inputs.md)
 
+**How do I communicate with the javascript front end?**
+
+[Communicating with the javascript](./answers/front_end.md)
+
 ## More referency stuff
 
 **What are the different input and output types, as python objects?**
