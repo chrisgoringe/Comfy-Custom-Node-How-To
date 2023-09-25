@@ -20,11 +20,10 @@ The (ComfyUI-Manager)[https://github.com/ltdrdata/ComfyUI-Manager] is a great pl
 
 **How do I get started writing custom nodes?**
 
-In the ComfyUI repository, the folder `custom_nodes` you'll find `example_node.py.examples`. That's worth reading. And [here](./answers/simple_node.md) is a really simple custom node explained.
+In the ComfyUI repository, the folder `custom_nodes` you'll find `example_node.py.examples`. That's worth reading. 
 
-**How do I get ComfyUI to load my node?**
-
-Here's how you [deploy a node](./answers/deploying%20a%20custom%20node.md)
+- [A simple custom node explained](./answers/simple_node.md) 
+- [How to get ComfyUI to load a custom node](./answers/deploying%20a%20custom%20node.md)
 
 ## Going further
 
