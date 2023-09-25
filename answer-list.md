@@ -32,17 +32,10 @@ Here's how you [deploy a node](./answers/deploying%20a%20custom%20node.md)
 
 `nodes.py` in the top level of the ComfyUI directory has the definitions of lots of the built in nodes. Look at the code for a node that does something a bit like you want.
 
-**What are hidden inputs?**
-
-[Hidden inputs](./answers/hidden_inputs.md)
-
-**How do I communicate with the javascript front end?**
-
-[Communicating with the javascript](./answers/front_end.md)
-
-**Can I subclass an existing custom node?**
-
-[Subclassing custom nodes](./answers/subclassing.md)
+Here are some guides on how to do things that have been contributed:
+- [Hidden inputs](./answers/hidden_inputs.md)
+- [Communicating with the javascript](./answers/front_end.md)
+- [Subclassing custom nodes](./answers/subclassing.md)
 
 ## More referency stuff
 
