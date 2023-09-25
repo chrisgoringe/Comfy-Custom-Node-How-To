@@ -22,9 +22,4 @@ Here are some guides on how to do things that have been contributed:
 - [Hidden inputs](./answers/hidden_inputs.md)
 - [Communicating with the javascript](./answers/front_end.md)
 - [Subclassing custom nodes](./answers/subclassing.md)
-
-## More referency stuff
-
-**What are the different input and output types, as python objects?**
-
-Stick a breakpoint in your debugger and take a look at them! But [here](./answers/data_types.md) are some details
+- [What python objects represent the input and output types?](./answers/data_types.md)
